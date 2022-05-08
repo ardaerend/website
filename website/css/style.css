@@ -203,4 +203,7 @@ i:hover,a:hover{
   margin-left:2rem;
   margin-top: 0;
  }
+  .text h2{
+  margin-bottom: 2rem;
+ }
 }
